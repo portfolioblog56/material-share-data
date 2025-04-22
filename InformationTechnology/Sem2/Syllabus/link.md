@@ -1,1 +1,0 @@
-Use this link or website to get syllabus files:  [https://gtu-paper-syllabus-downloader.vercel.app](https://gtu-paper-syllabus-downloader.vercel.app)
